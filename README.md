@@ -1,2 +1,1 @@
-Vita App 🩺
-# vita-redhat-ios
+# Vita App 🩺
